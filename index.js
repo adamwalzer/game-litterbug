@@ -72,7 +72,7 @@ var LitterBug = (
             />,
             <skoash.Audio ref="button" type="sfx" src={`${CMWN.MEDIA.EFFECT}s-bu-1.mp3`} />,
             <skoash.Image ref="img-bkg-1" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-1.png`} />,
-            <skoash.Image ref="img-bkg-2" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-2.png`} />,
+            <skoash.Image ref="img-bkg-2" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-2.jpg`} />,
             <skoash.Image ref="img-bkg-3" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-3.png`} />,
             <skoash.Image ref="img-bkg-4" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-4.jpg`} />,
             <skoash.Image ref="img-bkg-5" className="hidden" src={`${CMWN.MEDIA.IMAGE}bkg-5.png`} />,
