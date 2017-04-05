@@ -1,4 +1,4 @@
-const src = 'https://res.cloudinary.com/changemyworldnow/video/upload/v1455037034/Litterbug-Final_jjmrg7.mp4';
+const src = `${CMWN.MEDIA.VIDEO}litterbug.mp4`;
 
 export default function (props, ref, key) {
     return (
